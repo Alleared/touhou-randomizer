@@ -1,0 +1,2 @@
+Random Idea that I've had of make Random Touhou character doing Random stuff with Random things or other Random Touhou Characters. Literally Make that make sense.
+Thanks to Friends Chevy, Scarristo, Xah, Trumpet, Ferdy, Fallout for helping out with suggestions.
