@@ -142,7 +142,7 @@ const characters = [
   },
   {
     name: 'Doremy',
-    source: 'images/TH15Doremy.png'
+    source: 'images/Th15Doremy.png'
   },
   {
     name: 'Hecatia',
