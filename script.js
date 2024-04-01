@@ -384,7 +384,7 @@ const activityThings = [
   },
   {
     name: 'Yakitori',
-    source: 'activity/yakitori.png',
+    source: 'activity/Yakitori.png',
   },
   
 ]
